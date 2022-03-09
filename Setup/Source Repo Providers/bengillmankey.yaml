@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:Rkg0I4lgTJuXipGaRxKt5Q
+url: https://github.com/Ben-Gillman/adminlab
+urlType: REPO
+username: git
